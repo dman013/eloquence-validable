@@ -1,6 +1,6 @@
-# Sofa/Eloquence
+# Dmn013/Eloquence
 
-[![Build Status](https://travis-ci.org/jarektkaczyk/eloquence-validable.svg)](https://travis-ci.org/jarektkaczyk/eloquence-validable) [![Coverage Status](https://coveralls.io/repos/jarektkaczyk/eloquence-validable/badge.svg)](https://coveralls.io/r/jarektkaczyk/eloquence-validable) [![Code Quality](https://scrutinizer-ci.com/g/jarektkaczyk/eloquence-validable/badges/quality-score.png)](https://scrutinizer-ci.com/g/jarektkaczyk/eloquence-validable) [![Downloads](https://poser.pugx.org/sofa/eloquence-validable/downloads)](https://packagist.org/packages/sofa/eloquence-validable) [![stable](https://poser.pugx.org/sofa/eloquence-validable/v/stable.svg)](https://packagist.org/packages/sofa/eloquence-validable)
+[![Build Status](https://travis-ci.org/jarektkaczyk/eloquence-validable.svg)](https://travis-ci.org/jarektkaczyk/eloquence-validable) [![Coverage Status](https://coveralls.io/repos/jarektkaczyk/eloquence-validable/badge.svg)](https://coveralls.io/r/jarektkaczyk/eloquence-validable) [![Code Quality](https://scrutinizer-ci.com/g/jarektkaczyk/eloquence-validable/badges/quality-score.png)](https://scrutinizer-ci.com/g/jarektkaczyk/eloquence-validable) [![Downloads](https://poser.pugx.org/dmn013/eloquence-validable/downloads)](https://packagist.org/packages/dmn013/eloquence-validable) [![stable](https://poser.pugx.org/dmn013/eloquence-validable/v/stable.svg)](https://packagist.org/packages/dmn013/eloquence-validable)
 
 Easy and flexible extensions for the [Eloquent ORM](https://laravel.com/docs/eloquent).
 
@@ -16,10 +16,10 @@ Currently available extensions:
 ## Installation
 
 ```bash
-composer require sofa/eloquence-validable
+composer require dmn013/eloquence-validable
 ```
 
-**Check the [documentation](https://github.com/jarektkaczyk/eloquence/wiki) for installation and usage info, [website](http://softonsofa.com/tag/eloquence/) for examples and [API reference](http://jarektkaczyk.github.io/eloquence-api)**
+**Check the [documentation](https://github.com/jarektkaczyk/eloquence/wiki) for installation and usage info, [website](http://softondmn013.com/tag/eloquence/) for examples and [API reference](http://jarektkaczyk.github.io/eloquence-api)**
 
 ## Contribution
 

@@ -1,8 +1,8 @@
 <?php
 
-namespace Sofa\Eloquence;
+namespace Dmn013\Eloquence;
 
-use Sofa\Eloquence\Validable\Observer;
+use Dmn013\Eloquence\Validable\Observer;
 use Illuminate\Contracts\Validation\Factory;
 
 /**
